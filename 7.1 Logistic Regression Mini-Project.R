@@ -111,3 +111,4 @@ data.frame(Effect("r_maritl", mod.wk.age.mar))
 ##   Note that the data is not perfectly clean and ready to be modeled. You
 ##   will need to clean up at least some of the variables before fitting
 ##   the model.
+
